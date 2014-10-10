@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.hazelcast.core.Message"/>
+<fullyQualifiedTypeName name="org.vertx.java.core.eventbus.Message"/>
+<fullyQualifiedTypeName name="org.vertx.java.core.AsyncResultHandler"/>
+<fullyQualifiedTypeName name="org.vertx.java.core.AsyncResult"/>
+<fullyQualifiedTypeName name="org.vertx.java.core.http.HttpServer"/>
+<fullyQualifiedTypeName name="org.vertx.java.core.Handler"/>
+<fullyQualifiedTypeName name="org.vertx.java.core.logging.Logger"/>
+</qualifiedTypeNameHistroy>
